@@ -45,5 +45,7 @@ At the end of the day, everyone should pay their fair share. Each person should 
 
 ## Screenshots 
 The screenshots of the Output Solution for the above example problem are;
+![User Interface](https://github.com/Jaykd33/FairShare/blob/main/FairShare%20User%20Input%20Interface.png)
 
+![Split Report]()
 
